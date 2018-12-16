@@ -1,15 +1,13 @@
 <template>
   <div id="app">
-    <BaseLayout></BaseLayout>
+    mobile
   </div>
 </template>
 
 <script>
-import BaseLayout from './layouts/BaseLayout.vue'
 export default {
   name: 'app',
   components: {
-    BaseLayout
   }
 }
 </script>
