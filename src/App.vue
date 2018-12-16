@@ -1,16 +1,14 @@
 <template>
   <div id="app">
-    <Button>dddd</Button>
+    <van-button type="primary">默认按钮</van-button>
     <div class="test">test</div>
   </div>
 </template>
 
 <script>
-import { Button } from 'vant'
 export default {
   name: 'app',
   components: {
-    Button
   }
 }
 </script>
