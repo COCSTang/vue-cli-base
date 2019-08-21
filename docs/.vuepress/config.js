@@ -14,12 +14,16 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/haitaodesign/Vue-Cli3.0-Enterprise-Boilerplate'}
     ],
     sidebar: {
+      '/guides/': [
+        '',
+        'env-building',
+        'env-building-docker'
+      ],
       '/components/': [
         '',
         'components-one',
         'components-two'
       ]
     }
-
   }
 }
