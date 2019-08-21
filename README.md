@@ -14,7 +14,7 @@
 
 ### 第三方库
 
-1. [stylus](https://stylus.bootcss.com/)
+1. [sass](https://sass-lang.com/)
 3. [axios](https://github.com/axios/axios)
 4. [webpack](https://www.webpackjs.com/)
 5. [webpack-chain](https://github.com/neutrinojs/webpack-chain)
