@@ -20,6 +20,16 @@ module.exports = {
         'env-building',
         'env-building-docker'
       ],
+      '/specs/': [
+        '',
+        'html-specs',
+        'css-specs',
+        'js-specs',
+        'named-specs',
+        'vue-style-specs',
+        'git-commit',
+        'markdown-specs',
+      ],
       '/servery/': [
         '',
         'npm-start'
