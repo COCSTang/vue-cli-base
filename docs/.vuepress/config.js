@@ -10,6 +10,7 @@ module.exports = {
       { text: '开发指南', link: '/guides/' },
       { text: '开发规范', link: '/specs/' },
       { text: '组件文档', link: '/components/' },
+      { text: '调研', link: '/servery/'},
       { text: '开发日志', link: '/changelog/'},
       { text: 'GitHub', link: 'https://github.com/haitaodesign/Vue-Cli3.0-Enterprise-Boilerplate'}
     ],
@@ -18,6 +19,10 @@ module.exports = {
         '',
         'env-building',
         'env-building-docker'
+      ],
+      '/servery/': [
+        '',
+        'npm-start'
       ],
       '/components/': [
         '',
