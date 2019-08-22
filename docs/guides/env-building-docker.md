@@ -33,7 +33,7 @@ docker version
 
 ## Dockerfile构建开发环境镜像
 
-第一步，克隆前端开发环境Dockerfile仓库：[Dockerfile](https://git.7moor.com/private-FE/docker)
+第一步，克隆前端开发环境Dockerfile仓库：[Dockerfile](https://git.dustess.com/liht/fe-dev-docker)
 
 第二步，当前仓库目录输入一下命令构建docker镜像
 
